@@ -1,0 +1,15 @@
+{
+  "name": "volkanbey",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Volkan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk.js": "0.0.5",
+    "discord.js": "^11.4.2"
+  }
+}
