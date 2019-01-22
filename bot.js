@@ -30,4 +30,4 @@ msg.channel.sendMessage('Hoop! Volkanımın sevgilisinin adını ağzına alma!'
 }
 });
 
-client.login('NTM3MzE0NDM1MzkyNjAyMTMz.DyjcsA.6gascKWd6rzhlFS2nj9wopVFC1A');
+client.login('process.env.BOT_TOKEN');
